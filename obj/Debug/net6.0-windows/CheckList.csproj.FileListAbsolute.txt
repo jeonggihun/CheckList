@@ -1,0 +1,14 @@
+F:\Projects\CheckList\bin\Debug\net6.0-windows\CheckList.exe
+F:\Projects\CheckList\bin\Debug\net6.0-windows\CheckList.deps.json
+F:\Projects\CheckList\bin\Debug\net6.0-windows\CheckList.runtimeconfig.json
+F:\Projects\CheckList\bin\Debug\net6.0-windows\CheckList.dll
+F:\Projects\CheckList\bin\Debug\net6.0-windows\CheckList.pdb
+F:\Projects\CheckList\obj\Debug\net6.0-windows\CheckList.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\CheckList\obj\Debug\net6.0-windows\CheckList.AssemblyInfoInputs.cache
+F:\Projects\CheckList\obj\Debug\net6.0-windows\CheckList.AssemblyInfo.cs
+F:\Projects\CheckList\obj\Debug\net6.0-windows\CheckList.csproj.CoreCompileInputs.cache
+F:\Projects\CheckList\obj\Debug\net6.0-windows\CheckList.dll
+F:\Projects\CheckList\obj\Debug\net6.0-windows\refint\CheckList.dll
+F:\Projects\CheckList\obj\Debug\net6.0-windows\CheckList.pdb
+F:\Projects\CheckList\obj\Debug\net6.0-windows\CheckList.genruntimeconfig.cache
+F:\Projects\CheckList\obj\Debug\net6.0-windows\ref\CheckList.dll
